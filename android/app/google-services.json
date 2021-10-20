@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "184755419292",
+    "project_id": "bolt-e-commerce-b7d53",
+    "storage_bucket": "bolt-e-commerce-b7d53.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184755419292:android:a1c666abac84d23b785559",
+        "android_client_info": {
+          "package_name": "com.example.bolt_ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "184755419292-fq7pkatp8mt7n9vh5ei5cmthaoukfbf4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbLO46IS9TI-DbSlGuX-ML2mKxsJuX5Y4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "184755419292-fq7pkatp8mt7n9vh5ei5cmthaoukfbf4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
