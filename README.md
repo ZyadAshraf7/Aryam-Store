@@ -1,7 +1,7 @@
 # Aryam Store
 
 A new Flutter project.
-<img src="https://user-images.githubusercontent.com/73830725/138084427-47211591-d19d-4cd1-a13e-3cea98a341af.jpg" width="300" height="300"/>
+<img src="https://user-images.githubusercontent.com/73830725/138084427-47211591-d19d-4cd1-a13e-3cea98a341af.jpg" width="300" height="500"/>
 ![Screenshot_2021-10-20-13-08-32-185_com example bolt_ecommerce](https://user-images.githubusercontent.com/73830725/138084541-f0ca6c4a-3139-441d-8707-63dac76fdc43.jpg)
 ![Screenshot_2021-10-20-13-08-34-701_com example bolt_ecommerce](https://user-images.githubusercontent.com/73830725/138084629-0decca5e-e90d-4a9d-9d6b-3f19004b863c.jpg)
 ![Screenshot_2021-10-20-13-13-10-813_com miui videoplayer](https://user-images.githubusercontent.com/73830725/138084660-6875a669-772c-4b24-a6e7-fda76fccf474.jpg)
