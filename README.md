@@ -1,4 +1,4 @@
-# bolt_ecommerce
+# Aryam Store
 
 A new Flutter project.
 ![Screenshot_2021-10-20-13-07-49-045_com example bolt_ecommerce](https://user-images.githubusercontent.com/73830725/138084427-47211591-d19d-4cd1-a13e-3cea98a341af.jpg)
